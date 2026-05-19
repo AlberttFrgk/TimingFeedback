@@ -223,10 +223,6 @@ function resetJudgement() {
     });
 }
 
-function isAlwaysShowMsEnabled() {
-    return settings.alwaysShowHitError && settings.showHitErrorMs && settings.showPerfectMs;
-}
-
 function resetMs() {
     uiMs.classList.remove("animated-hide");
     
