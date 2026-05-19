@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/version-1.5.0-blue?style=flat-square)
 ![Compatible](https://img.shields.io/badge/compatible-tosu-orange?style=flat-square)
 ![Resolution](https://img.shields.io/badge/resolution-500×250-green?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
+![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey?style=flat-square)
 
 Shows **EARLY / LATE** judgements and exact **millisecond hit error** after every note hit.  
 Works as an in-game overlay or OBS browser source.
