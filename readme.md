@@ -14,7 +14,7 @@ Works as an in-game overlay or OBS browser source.
 
 <br>
 
-![demo](demo.svg)
+![demo](demo.gif)
 
 </div>
 
